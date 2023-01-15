@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Private project**
 
-- 🌱 I’m currently learning **WebSockets**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻My Portfolio [ahmed-kn.herokuapp.com](http://ahmed-kn.herokuapp.com)
 
